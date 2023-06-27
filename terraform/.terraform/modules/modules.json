@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dms","Source":"registry.terraform.io/terraform-aws-modules/dms/aws","Version":"1.6.1","Dir":".terraform/modules/dms"}]}
